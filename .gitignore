@@ -1,0 +1,8 @@
+./back/.DS_Store
+./back/node_modules
+./back/dist
+
+
+./font/.DS_Store
+./font/node_modules
+./font/dist
